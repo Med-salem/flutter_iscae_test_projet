@@ -1,0 +1,777 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "ATtYBwJH7n6HiuNatuySqRjJay65buB6Yjg2L5v0DU6-WDR4uwC2ldDO_886yLr1IO-3Z0cdfIgK9K8OiMdu_splgTSMe59f2psdCxyxtCbE_LS6p1tbcvprVMuZnqXjAb6YpxpvForDfdhXKREpnRAp1kxmqDP2_gLHYSlA_JdPn5N-6CF_DoBUFL9wtcRzd4c5D12AdgBAPGgqVKs5Ev4o-9MsUM6CWz4MCuro19ncQSinf3i1qMlkTnhoWQIpFB1jCwyT1nz0i75quADDJfs4mAcaAdRECHN37Es2U-252jOqBV6gE0LA97mam0CmqMeojRZRV96x2nyK8ZJWNNAukp21uGM-oP7462BghmTuE72zNvjRNSV3nxrhi2MnfGNRHYmOoQoRp0zv1gJXQuOzKQzP60xP-AAZ9P1dLYB4vqVapGmA9o62K60QLg",
+   "results" : [
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 18.1212451,
+               "lng" : -15.9400215
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 18.1226175802915,
+                  "lng" : -15.9386540197085
+               },
+               "southwest" : {
+                  "lat" : 18.11991961970849,
+                  "lng" : -15.9413519802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/pharmacy-71.png",
+         "name" : "صيدلية الجزيرة. Pharmacie El Jezira",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2391,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/118114035170328128901\"\u003eAbdellahi Ould Ebede\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwJRkI5UlYkH1jKbE66IuzfIMjknEPGvxjzRGUbiZQa6rKXJ2uj7-tEIV7Rwcv-EdK2T3aKQKmflBWcZlSyiyQCwxUoxSsmWRPtt11fEn-X9PaJOUjqk3AQXKqmxPvjp8zWOHtOC7eYdCCOBzr8PlIa3vez0CUspHbL9OnEYSEStGoxR",
+               "width" : 3590
+            }
+         ],
+         "place_id" : "ChIJ50AR91NTlg4RU8uRG6xZnx4",
+         "plus_code" : {
+            "compound_code" : "43C5+FX Nouakchott, Mauritanie",
+            "global_code" : "7CC643C5+FX"
+         },
+         "rating" : 5,
+         "reference" : "ChIJ50AR91NTlg4RU8uRG6xZnx4",
+         "scope" : "GOOGLE",
+         "types" : [ "pharmacy", "health", "point_of_interest", "store", "establishment" ],
+         "user_ratings_total" : 1,
+         "vicinity" : "Unnamed Rd,،"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 18.1213713,
+               "lng" : -15.9399391
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 18.1226854302915,
+                  "lng" : -15.93861761970849
+               },
+               "southwest" : {
+                  "lat" : 18.1199874697085,
+                  "lng" : -15.9413155802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/pharmacy-71.png",
+         "name" : "Pharmacie Aljazira",
+         "photos" : [
+            {
+               "height" : 2556,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/118114035170328128901\"\u003eAbdellahi Ould Ebede\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwIl85OwCiGSmBbySw2UnhS6_i42KMPMRjwA3pGOjnjumRW561n71Waatw8uzUvnCJmPYdEB48u2rkYfN60C47fPpzkplP3NN-vVPim4NonoP_mICpFQ-QaSCeY2fxI0GPydyQSqNSk25Qz1oHxmsq1yb6si060a2QVvd6WIwWv2tnNN",
+               "width" : 3408
+            }
+         ],
+         "place_id" : "ChIJlc9uV89Slg4R4hh3WIkbyIE",
+         "plus_code" : {
+            "compound_code" : "43C6+G2 Nouakchott, Mauritanie",
+            "global_code" : "7CC643C6+G2"
+         },
+         "rating" : 3.7,
+         "reference" : "ChIJlc9uV89Slg4R4hh3WIkbyIE",
+         "scope" : "GOOGLE",
+         "types" : [ "pharmacy", "health", "point_of_interest", "store", "establishment" ],
+         "user_ratings_total" : 16,
+         "vicinity" : "Unnamed Rd,, Nouakchott"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 18.119384,
+               "lng" : -15.937124
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 18.1206898802915,
+                  "lng" : -15.9358071697085
+               },
+               "southwest" : {
+                  "lat" : 18.1179919197085,
+                  "lng" : -15.9385051302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/pharmacy-71.png",
+         "name" : "Depotpharmacie AlMaamoue",
+         "place_id" : "ChIJSX3AdZtTlg4Re9sx1NKpvYw",
+         "plus_code" : {
+            "compound_code" : "4397+Q5 Nouakchott, Mauritanie",
+            "global_code" : "7CC64397+Q5"
+         },
+         "reference" : "ChIJSX3AdZtTlg4Re9sx1NKpvYw",
+         "scope" : "GOOGLE",
+         "types" : [ "pharmacy", "health", "point_of_interest", "store", "establishment" ],
+         "vicinity" : "Nouakchott"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 18.118516,
+               "lng" : -15.9370161
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 18.1199132302915,
+                  "lng" : -15.93573611970849
+               },
+               "southwest" : {
+                  "lat" : 18.1172152697085,
+                  "lng" : -15.9384340802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/pharmacy-71.png",
+         "name" : "مستودع صيدلي تلمسي",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "place_id" : "ChIJp7lfsQJTlg4Rz5L4b0_mOK0",
+         "plus_code" : {
+            "compound_code" : "4397+C5 Nouakchott, Mauritanie",
+            "global_code" : "7CC64397+C5"
+         },
+         "reference" : "ChIJp7lfsQJTlg4Rz5L4b0_mOK0",
+         "scope" : "GOOGLE",
+         "types" : [ "pharmacy", "health", "point_of_interest", "store", "establishment" ],
+         "vicinity" : "طريق أكجوجت، نواكشوط،"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 18.1189994,
+               "lng" : -15.9366499
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 18.1203401802915,
+                  "lng" : -15.9353061197085
+               },
+               "southwest" : {
+                  "lat" : 18.11764221970849,
+                  "lng" : -15.9380040802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/pharmacy-71.png",
+         "name" : "صيدلية المقاومة",
+         "photos" : [
+            {
+               "height" : 4160,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116406499864045588754\"\u003eMed Moctar Med Lemin\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwLnJqjzBwn4DwkAU4y80LR5M7MUJysnJalgtdBDLXQxhVbRqhFiwohGBYFCOJkYnK26XTeo9YCF8OseU_ByYX_6rMYCMqIwTi7F7RwCS8Qbyncj8BFAjmJPZxI4HuI8KIdgwFlYEnlpEBz_8oMB0wwkOJvHnFLX5QxvFkXu0MszK5AE",
+               "width" : 3120
+            }
+         ],
+         "place_id" : "ChIJgWqxmuxTlg4RnDZR2b3FuXY",
+         "plus_code" : {
+            "compound_code" : "4397+H8 Nouakchott, Mauritanie",
+            "global_code" : "7CC64397+H8"
+         },
+         "rating" : 3.7,
+         "reference" : "ChIJgWqxmuxTlg4RnDZR2b3FuXY",
+         "scope" : "GOOGLE",
+         "types" : [ "pharmacy", "health", "point_of_interest", "store", "establishment" ],
+         "user_ratings_total" : 3,
+         "vicinity" : "Route de la Résistance، نواكشوط،"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 18.1182904,
+               "lng" : -15.9423718
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 18.1196811302915,
+                  "lng" : -15.9410800697085
+               },
+               "southwest" : {
+                  "lat" : 18.1169831697085,
+                  "lng" : -15.9437780302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/pharmacy-71.png",
+         "name" : "Pharmacie ZemZem teyarete",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1158,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106528327664964539009\"\u003eJed Ahmedou\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwLyhahpy1JpBOj5ePbgwc8O0hczMbSW1I-ZZ2euhMLFBw3l49jtLI7DYylB4Ot-1THMjoEcegQvjehblfkvWzW7DBUu1E2C-m0VPaekymxq8FWfm6vI66sKX4LjyA9hpdd4y9rWjAxiEcXSQHGnMGsUBnls50HnUzMCy2P8yZmeH61Q",
+               "width" : 1014
+            }
+         ],
+         "place_id" : "ChIJHcueiINTlg4RupNzipgTy-o",
+         "plus_code" : {
+            "compound_code" : "4395+83 Nouakchott, Mauritanie",
+            "global_code" : "7CC64395+83"
+         },
+         "rating" : 3.8,
+         "reference" : "ChIJHcueiINTlg4RupNzipgTy-o",
+         "scope" : "GOOGLE",
+         "types" : [ "pharmacy", "health", "point_of_interest", "store", "establishment" ],
+         "user_ratings_total" : 6,
+         "vicinity" : "Premier, Nouakchott"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 18.1239376,
+               "lng" : -15.9381111
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 18.1252644302915,
+                  "lng" : -15.9367313697085
+               },
+               "southwest" : {
+                  "lat" : 18.1225664697085,
+                  "lng" : -15.9394293302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/pharmacy-71.png",
+         "name" : "صيدلية الحيوان",
+         "place_id" : "ChIJY84URstTlg4Ry8g08uvuuSY",
+         "plus_code" : {
+            "compound_code" : "43F6+HQ Nouakchott, Mauritanie",
+            "global_code" : "7CC643F6+HQ"
+         },
+         "rating" : 4.7,
+         "reference" : "ChIJY84URstTlg4Ry8g08uvuuSY",
+         "scope" : "GOOGLE",
+         "types" : [ "pharmacy", "health", "point_of_interest", "store", "establishment" ],
+         "user_ratings_total" : 3,
+         "vicinity" : "تيارت، نواكشوط،"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 18.1239873,
+               "lng" : -15.9380759
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 18.12531308029151,
+                  "lng" : -15.9366947697085
+               },
+               "southwest" : {
+                  "lat" : 18.1226151197085,
+                  "lng" : -15.9393927302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/pharmacy-71.png",
+         "name" : "Pharmacie Elbaraka Teyarett",
+         "place_id" : "ChIJpz7mKSdTlg4RlC13Y4XgJUo",
+         "plus_code" : {
+            "compound_code" : "43F6+HQ Nouakchott, Mauritanie",
+            "global_code" : "7CC643F6+HQ"
+         },
+         "reference" : "ChIJpz7mKSdTlg4RlC13Y4XgJUo",
+         "scope" : "GOOGLE",
+         "types" : [ "pharmacy", "health", "point_of_interest", "store", "establishment" ],
+         "vicinity" : "Nouakchott"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 18.1174203,
+               "lng" : -15.946782
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 18.1187192302915,
+                  "lng" : -15.9453641697085
+               },
+               "southwest" : {
+                  "lat" : 18.1160212697085,
+                  "lng" : -15.9480621302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/pharmacy-71.png",
+         "name" : "Pharmacie du Nord",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2560,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108951034609794853611\"\u003ekerkoub MOHAMED\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwJHS2nq9VUA1AS2jRKmzWIFEG--b7W9hbfGww4cjfSkmFOibQXij7n642YjczxTh1cpks5fCZMXvx2YIioiIN_pXd8TppEq0nHlg5xZEv9I2VhCRpCC2uZT52B--3pVF-TdKkVmHd5z2T0KmrY-RpdrE0k5Z9rvKcxUGfMzDZzaU_df",
+               "width" : 1536
+            }
+         ],
+         "place_id" : "ChIJ5aQ-gbhSlg4R4zLRxLVlQBM",
+         "plus_code" : {
+            "compound_code" : "4383+X7 Nouakchott, Mauritanie",
+            "global_code" : "7CC64383+X7"
+         },
+         "rating" : 3.4,
+         "reference" : "ChIJ5aQ-gbhSlg4R4zLRxLVlQBM",
+         "scope" : "GOOGLE",
+         "types" : [ "pharmacy", "health", "point_of_interest", "store", "establishment" ],
+         "user_ratings_total" : 5,
+         "vicinity" : "Nouakchott"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 18.1277864,
+               "lng" : -15.9383703
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 18.1290974302915,
+                  "lng" : -15.9369688197085
+               },
+               "southwest" : {
+                  "lat" : 18.1263994697085,
+                  "lng" : -15.9396667802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/pharmacy-71.png",
+         "name" : "Pharmacie chiva tam teyarett",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "place_id" : "ChIJr5Ddhh5Tlg4RR0oJ4rFNak4",
+         "plus_code" : {
+            "compound_code" : "43H6+4M Nouakchott, Mauritanie",
+            "global_code" : "7CC643H6+4M"
+         },
+         "rating" : 5,
+         "reference" : "ChIJr5Ddhh5Tlg4RR0oJ4rFNak4",
+         "scope" : "GOOGLE",
+         "types" : [ "pharmacy", "health", "point_of_interest", "store", "establishment" ],
+         "user_ratings_total" : 1,
+         "vicinity" : "Premier, Nouakchott"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 18.1299535,
+               "lng" : -15.9376756
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 18.1312753302915,
+                  "lng" : -15.9362876697085
+               },
+               "southwest" : {
+                  "lat" : 18.1285773697085,
+                  "lng" : -15.9389856302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/pharmacy-71.png",
+         "name" : "Pharmacie12",
+         "place_id" : "ChIJ07yd_CNTlg4RzcNsoJeTqqc",
+         "plus_code" : {
+            "compound_code" : "43H6+XW Nouakchott, Mauritanie",
+            "global_code" : "7CC643H6+XW"
+         },
+         "reference" : "ChIJ07yd_CNTlg4RzcNsoJeTqqc",
+         "scope" : "GOOGLE",
+         "types" : [ "pharmacy", "health", "point_of_interest", "store", "establishment" ],
+         "vicinity" : "Nouakchott"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 18.1301756,
+               "lng" : -15.9407531
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 18.1314222302915,
+                  "lng" : -15.9394889697085
+               },
+               "southwest" : {
+                  "lat" : 18.1287242697085,
+                  "lng" : -15.9421869302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/pharmacy-71.png",
+         "name" : "Pharmacie VASQ صيدلية فصك",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3120,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104904507696843345835\"\u003eeljouzqyv Babah\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwK86EljMTJH4hMBjjydZlOtjAKyTTeFJRDKDjAeJmcmE_h7-OffPeyVpPLJR0syP4ROS26xlv6yn5J54ytHrYvBKLtQa86YYTz2o6Ci4NK4PiI_UA2PP7me5F4q1AbCjNKlYnT_wUVwvXX8jRPHZk7NybgDy4QDDv5-6BBYdAhBjTKM",
+               "width" : 4160
+            }
+         ],
+         "place_id" : "ChIJPTAkgMxSlg4R9YhWyOn93L4",
+         "plus_code" : {
+            "compound_code" : "43J5+3M Nouakchott, Mauritanie",
+            "global_code" : "7CC643J5+3M"
+         },
+         "rating" : 3.8,
+         "reference" : "ChIJPTAkgMxSlg4R9YhWyOn93L4",
+         "scope" : "GOOGLE",
+         "types" : [ "pharmacy", "health", "point_of_interest", "store", "establishment" ],
+         "user_ratings_total" : 4,
+         "vicinity" : "طريق صكوك, Nouakchott"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 18.1137482,
+               "lng" : -15.929239
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 18.1150302302915,
+                  "lng" : -15.9279428697085
+               },
+               "southwest" : {
+                  "lat" : 18.1123322697085,
+                  "lng" : -15.9306408302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/pharmacy-71.png",
+         "name" : "Pharmacie Hay Sakin",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "place_id" : "ChIJtXomScpTlg4R5LahmY2o96U",
+         "plus_code" : {
+            "compound_code" : "437C+F8 Nouakchott, Mauritanie",
+            "global_code" : "7CC6437C+F8"
+         },
+         "rating" : 3.5,
+         "reference" : "ChIJtXomScpTlg4R5LahmY2o96U",
+         "scope" : "GOOGLE",
+         "types" : [ "pharmacy", "health", "point_of_interest", "store", "establishment" ],
+         "user_ratings_total" : 2,
+         "vicinity" : "Nouakchott"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 18.1311161,
+               "lng" : -15.935222
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 18.1325356302915,
+                  "lng" : -15.9339672197085
+               },
+               "southwest" : {
+                  "lat" : 18.1298376697085,
+                  "lng" : -15.9366651802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/pharmacy-71.png",
+         "name" : "Pharmacie d'excellence",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1128,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/118114035170328128901\"\u003eAbdellahi Ould Ebede\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwKHJmUiUB5XuAwfl_aEOcdClT0m6V6RsU8Rk-6BZYJ05-0f5Z_3iyXgvxtzwSyj-NNx-UwiyIgSmRyxs1TJJrjxWz3QdrPO4Pka4Tafl77hXK0cZtTU-rHVvKINbY_RqwFf2dQ6uWyTtGkQlL7zjSwKZJhNNsUSYxehAPBSvUduiDRi",
+               "width" : 1566
+            }
+         ],
+         "place_id" : "ChIJRZbmn81Slg4RP08ZS9z8x8I",
+         "plus_code" : {
+            "compound_code" : "43J7+CW Nouakchott, Mauritanie",
+            "global_code" : "7CC643J7+CW"
+         },
+         "rating" : 3.4,
+         "reference" : "ChIJRZbmn81Slg4RP08ZS9z8x8I",
+         "scope" : "GOOGLE",
+         "types" : [ "pharmacy", "health", "point_of_interest", "store", "establishment" ],
+         "user_ratings_total" : 10,
+         "vicinity" : "Nouakchott"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 18.1125235,
+               "lng" : -15.9502662
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 18.1139140302915,
+                  "lng" : -15.9489798197085
+               },
+               "southwest" : {
+                  "lat" : 18.11121606970849,
+                  "lng" : -15.9516777802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/pharmacy-71.png",
+         "name" : "صيدلية د. محمد محمود",
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/118114035170328128901\"\u003eAbdellahi Ould Ebede\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwKwGN0DrBoOj0oRvuJISymnrG-gGC8h0x0Ivpohfl2BRUGnOzM6ZAHv4sBJ8iGKU_a_TUip1lObljgxL-Z5NHkK5Mqe1BO5Qq1FwH8LXasyPIAXc4X-RNoYRIhHYS8Vf-BILitni8jCM6hHiRCMnpK3uXJwxZQrOJ7yI9VQSm7J2Eqa",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJD7aliZtTlg4RGSSljhryDHo",
+         "plus_code" : {
+            "compound_code" : "427X+2V Nouakchott, Mauritanie",
+            "global_code" : "7CC6427X+2V"
+         },
+         "reference" : "ChIJD7aliZtTlg4RGSSljhryDHo",
+         "scope" : "GOOGLE",
+         "types" : [ "pharmacy", "health", "point_of_interest", "store", "establishment" ],
+         "vicinity" : "Nouakchott"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 18.1315265,
+               "lng" : -15.9339775
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 18.1327961302915,
+                  "lng" : -15.9325127197085
+               },
+               "southwest" : {
+                  "lat" : 18.1300981697085,
+                  "lng" : -15.9352106802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/pharmacy-71.png",
+         "name" : "صيدلية الإمتياز _تيارتpharmacie_El Imtiyaz",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3264,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117980626985122506975\"\u003eahmed yacoub mohamed zeine\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwLliSNURXlCCQ1cvKjGMe-CJXUtwZP1C-zr3TIHnAJM-OLAH98bPgjErZDOiJkJ4GL_JmsCw78G-IRZQzUyKfV_3E7HeUkVsO0xSKEkzrEmJgmW_lOP9Ykg8TMrbbvjOEk-or55C3jm2b7FX5CVWPFasWG80fPX7KaGNIyuQ8eFbj9I",
+               "width" : 1836
+            }
+         ],
+         "place_id" : "ChIJKQmCl9JSlg4RyjsiR1yCtM0",
+         "plus_code" : {
+            "compound_code" : "43J8+JC Nouakchott, Mauritanie",
+            "global_code" : "7CC643J8+JC"
+         },
+         "rating" : 3.7,
+         "reference" : "ChIJKQmCl9JSlg4RyjsiR1yCtM0",
+         "scope" : "GOOGLE",
+         "types" : [ "pharmacy", "health", "point_of_interest", "store", "establishment" ],
+         "user_ratings_total" : 6,
+         "vicinity" : "Unnamed Road,, Nouakchott"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 18.1186576,
+               "lng" : -15.925615
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 18.1199904802915,
+                  "lng" : -15.9242256197085
+               },
+               "southwest" : {
+                  "lat" : 18.1172925197085,
+                  "lng" : -15.9269235802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/pharmacy-71.png",
+         "name" : "صيدلي الأسنان دار النعيم",
+         "place_id" : "ChIJITUXzIxTlg4RH7Z42pyGw4c",
+         "plus_code" : {
+            "compound_code" : "439F+FQ Nouakchott, Mauritanie",
+            "global_code" : "7CC6439F+FQ"
+         },
+         "rating" : 1,
+         "reference" : "ChIJITUXzIxTlg4RH7Z42pyGw4c",
+         "scope" : "GOOGLE",
+         "types" : [ "pharmacy", "health", "point_of_interest", "store", "establishment" ],
+         "user_ratings_total" : 2,
+         "vicinity" : "Unnamed Road"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 18.1138322,
+               "lng" : -15.9536863
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 18.1151635802915,
+                  "lng" : -15.9523496697085
+               },
+               "southwest" : {
+                  "lat" : 18.1124656197085,
+                  "lng" : -15.9550476302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/pharmacy-71.png",
+         "name" : "Pharmacie AL RAZI KSAR",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1080,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101240914158548809833\"\u003eBaba LELO\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwIomWmI1OaKM-EzYSt4D1QuphFafseH5u9GVxpMfohuPRhKkdzRsDqnIJNBTX3KTmliv2zqxJW8od_DQ7Sbg7LxWWK8fBw8bDu6tlpyc84tWW5qvkG3xulkR76ZR4RBPJDi1Fdp5AbxjpjcBk4LzvQU7rim5DojaFbqZbp3OvubIsSI",
+               "width" : 1920
+            }
+         ],
+         "place_id" : "ChIJk-HQFl1Tlg4R_bhgp15FzpY",
+         "plus_code" : {
+            "compound_code" : "427W+GG Nouakchott, Mauritanie",
+            "global_code" : "7CC6427W+GG"
+         },
+         "rating" : 5,
+         "reference" : "ChIJk-HQFl1Tlg4R_bhgp15FzpY",
+         "scope" : "GOOGLE",
+         "types" : [ "pharmacy", "health", "point_of_interest", "store", "establishment" ],
+         "user_ratings_total" : 1,
+         "vicinity" : "Nouakchott"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 18.1135005,
+               "lng" : -15.9537132
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 18.1148185302915,
+                  "lng" : -15.9523117197085
+               },
+               "southwest" : {
+                  "lat" : 18.1121205697085,
+                  "lng" : -15.9550096802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/pharmacy-71.png",
+         "name" : "Pharmacie Errazi صيدلية الرازي",
+         "photos" : [
+            {
+               "height" : 2115,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106823316912541522604\"\u003eHorma Moustapha\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwKnebqOXZrt-er_I7abIjuuOOt4iyGOWwS6k4LANWa3qDHBXCfi_TF0Fk_ff4kTZ7KE9elxPlnmsZL6XKA7tQ4rAe0TCaSCAX5WHlM76EppjOX166DLnBNH2SCWO-1KYoHnWxQvUgJEZGL96GojNfvomPBeYFjdphoi1mwznRa7LGDW",
+               "width" : 3072
+            }
+         ],
+         "place_id" : "ChIJ-c9jDbxSlg4RXSOPIxhgFwc",
+         "plus_code" : {
+            "compound_code" : "427W+CG Nouakchott, Mauritanie",
+            "global_code" : "7CC6427W+CG"
+         },
+         "rating" : 4,
+         "reference" : "ChIJ-c9jDbxSlg4RXSOPIxhgFwc",
+         "scope" : "GOOGLE",
+         "types" : [ "pharmacy", "health", "point_of_interest", "store", "establishment" ],
+         "user_ratings_total" : 5,
+         "vicinity" : "Nouakchott"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 18.1341068,
+               "lng" : -15.9329297
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 18.1354930802915,
+                  "lng" : -15.9316366197085
+               },
+               "southwest" : {
+                  "lat" : 18.1327951197085,
+                  "lng" : -15.9343345802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/pharmacy-71.png",
+         "name" : "صيدلية الأندلس Pharmacie Alandalus",
+         "place_id" : "ChIJmxGEOS2tlw4RsL05Ezb5dh0",
+         "plus_code" : {
+            "compound_code" : "43M8+JR Nouakchott, Mauritanie",
+            "global_code" : "7CC643M8+JR"
+         },
+         "rating" : 3.5,
+         "reference" : "ChIJmxGEOS2tlw4RsL05Ezb5dh0",
+         "scope" : "GOOGLE",
+         "types" : [ "pharmacy", "health", "point_of_interest", "store", "establishment" ],
+         "user_ratings_total" : 2,
+         "vicinity" : "Nouakchott"
+      }
+   ],
+   "status" : "OK"
+}
