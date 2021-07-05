@@ -9,12 +9,12 @@ class PlacesList extends StatelessWidget {
     final places = ModalRoute.of(context)!.settings.arguments as Result;
 
     return ListView.builder(
-      //itemCount: places.length,
+      itemCount: 5,
       itemBuilder: (context, index) {
         return ListTile(
-          // leading: Image.network(places.photos.toString()),
+          leading: Image.asset(''),
           title: Text(places.name),
-          subtitle: Text(places.geometry.toString()),
+          subtitle: Text(places.vicinity),
         );
       },
     );

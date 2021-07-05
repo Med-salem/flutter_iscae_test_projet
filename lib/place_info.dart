@@ -20,7 +20,7 @@ class PlaceInfo extends StatelessWidget {
           children: <Widget>[
             Center(
               child: CircleAvatar(
-                // backgroundImage: AssetImage(result.photos.toString()),
+                backgroundImage: AssetImage(''),
                 radius: 40.0,
               ),
             ),
@@ -37,7 +37,7 @@ class PlaceInfo extends StatelessWidget {
             ),
             SizedBox(height: 10.0),
             Text(
-              'result.name',
+              result.name,
               style: TextStyle(
                   color: Colors.amberAccent[200],
                   letterSpacing: 2.0,
@@ -54,7 +54,7 @@ class PlaceInfo extends StatelessWidget {
             ),
             SizedBox(height: 10.0),
             Text(
-              'result.geometry.toString()',
+              result.vicinity,
               style: TextStyle(
                   color: Colors.amberAccent[200],
                   letterSpacing: 2.0,
