@@ -39,7 +39,7 @@ class _GetUserLocationState extends State<GetUserLocation> {
     });
   }
 
-  void GoToCarte() async {
+  void goToCarte() async {
     await _determinePosition();
   }
 
@@ -47,7 +47,7 @@ class _GetUserLocationState extends State<GetUserLocation> {
   void initState() {
     super.initState();
 
-    GoToCarte();
+    goToCarte();
   }
 
   @override

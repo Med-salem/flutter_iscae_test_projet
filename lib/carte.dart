@@ -22,10 +22,12 @@ class _CarteState extends State<Carte> {
   //location
   static double latitude = 18.11983555702137;
   static double longitude = -15.939569373830926;
-  Location user_location = Location(lat: latitude, long: longitude);
+  Location userLocation = Location(lat: latitude, long: longitude);
 
   //markers
   List<Marker> markers = <Marker>[];
+
+  late List<Result> places;
 
   //initialise Map Controller
   void _onMapCreated(GoogleMapController controller) {
@@ -37,7 +39,7 @@ class _CarteState extends State<Carte> {
     final String response = await rootBundle.loadString('assets/info.json');
 
     final data = json.decode(response);
-    List<Result> places = PlaceResponse.parseResults(data['results']);
+    places = PlaceResponse.parseResults(data['results']);
     for (int i = 0; i < places.length; i++) {
       markers.add(
         Marker(
@@ -65,13 +67,13 @@ class _CarteState extends State<Carte> {
 
   @override
   Widget build(BuildContext context) {
-    user_location = ModalRoute.of(context)!.settings.arguments == null
-        ? user_location
+    userLocation = ModalRoute.of(context)!.settings.arguments == null
+        ? userLocation
         : ModalRoute.of(context)!.settings.arguments as Location;
 
     //initialise Camera On User Location
     final CameraPosition _myLocation = CameraPosition(
-        target: LatLng(user_location.lat, user_location.long),
+        target: LatLng(userLocation.lat, userLocation.long),
         zoom: 14,
         bearing: 15.0,
         tilt: 75.0);
@@ -94,7 +96,9 @@ class _CarteState extends State<Carte> {
           backgroundColor: Colors.transparent,
         ),
         drawer: Drawer(
-          child: MenuList(),
+          child: MenuList(
+            result: places,
+          ),
         ),
         body: GoogleMap(
           onMapCreated: _onMapCreated,
