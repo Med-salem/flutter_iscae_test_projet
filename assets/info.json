@@ -51,78 +51,6 @@
          "business_status" : "OPERATIONAL",
          "geometry" : {
             "location" : {
-               "lat" : 18.1213713,
-               "lng" : -15.9399391
-            },
-            "viewport" : {
-               "northeast" : {
-                  "lat" : 18.1226854302915,
-                  "lng" : -15.93861761970849
-               },
-               "southwest" : {
-                  "lat" : 18.1199874697085,
-                  "lng" : -15.9413155802915
-               }
-            }
-         },
-         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/pharmacy-71.png",
-         "name" : "Pharmacie Aljazira",
-         "photos" : [
-            {
-               "height" : 2556,
-               "html_attributions" : [
-                  "\u003ca href=\"https://maps.google.com/maps/contrib/118114035170328128901\"\u003eAbdellahi Ould Ebede\u003c/a\u003e"
-               ],
-               "photo_reference" : "ATtYBwIl85OwCiGSmBbySw2UnhS6_i42KMPMRjwA3pGOjnjumRW561n71Waatw8uzUvnCJmPYdEB48u2rkYfN60C47fPpzkplP3NN-vVPim4NonoP_mICpFQ-QaSCeY2fxI0GPydyQSqNSk25Qz1oHxmsq1yb6si060a2QVvd6WIwWv2tnNN",
-               "width" : 3408
-            }
-         ],
-         "place_id" : "ChIJlc9uV89Slg4R4hh3WIkbyIE",
-         "plus_code" : {
-            "compound_code" : "43C6+G2 Nouakchott, Mauritanie",
-            "global_code" : "7CC643C6+G2"
-         },
-         "rating" : 3.7,
-         "reference" : "ChIJlc9uV89Slg4R4hh3WIkbyIE",
-         "scope" : "GOOGLE",
-         "types" : [ "pharmacy", "health", "point_of_interest", "store", "establishment" ],
-         "user_ratings_total" : 16,
-         "vicinity" : "Unnamed Rd,, Nouakchott"
-      },
-      {
-         "business_status" : "OPERATIONAL",
-         "geometry" : {
-            "location" : {
-               "lat" : 18.119384,
-               "lng" : -15.937124
-            },
-            "viewport" : {
-               "northeast" : {
-                  "lat" : 18.1206898802915,
-                  "lng" : -15.9358071697085
-               },
-               "southwest" : {
-                  "lat" : 18.1179919197085,
-                  "lng" : -15.9385051302915
-               }
-            }
-         },
-         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/pharmacy-71.png",
-         "name" : "Depotpharmacie AlMaamoue",
-         "place_id" : "ChIJSX3AdZtTlg4Re9sx1NKpvYw",
-         "plus_code" : {
-            "compound_code" : "4397+Q5 Nouakchott, Mauritanie",
-            "global_code" : "7CC64397+Q5"
-         },
-         "reference" : "ChIJSX3AdZtTlg4Re9sx1NKpvYw",
-         "scope" : "GOOGLE",
-         "types" : [ "pharmacy", "health", "point_of_interest", "store", "establishment" ],
-         "vicinity" : "Nouakchott"
-      },
-      {
-         "business_status" : "OPERATIONAL",
-         "geometry" : {
-            "location" : {
                "lat" : 18.118516,
                "lng" : -15.9370161
             },
@@ -238,38 +166,6 @@
          "types" : [ "pharmacy", "health", "point_of_interest", "store", "establishment" ],
          "user_ratings_total" : 6,
          "vicinity" : "Premier, Nouakchott"
-      },
-      {
-         "business_status" : "OPERATIONAL",
-         "geometry" : {
-            "location" : {
-               "lat" : 18.1239376,
-               "lng" : -15.9381111
-            },
-            "viewport" : {
-               "northeast" : {
-                  "lat" : 18.1252644302915,
-                  "lng" : -15.9367313697085
-               },
-               "southwest" : {
-                  "lat" : 18.1225664697085,
-                  "lng" : -15.9394293302915
-               }
-            }
-         },
-         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/pharmacy-71.png",
-         "name" : "صيدلية الحيوان",
-         "place_id" : "ChIJY84URstTlg4Ry8g08uvuuSY",
-         "plus_code" : {
-            "compound_code" : "43F6+HQ Nouakchott, Mauritanie",
-            "global_code" : "7CC643F6+HQ"
-         },
-         "rating" : 4.7,
-         "reference" : "ChIJY84URstTlg4Ry8g08uvuuSY",
-         "scope" : "GOOGLE",
-         "types" : [ "pharmacy", "health", "point_of_interest", "store", "establishment" ],
-         "user_ratings_total" : 3,
-         "vicinity" : "تيارت، نواكشوط،"
       },
       {
          "business_status" : "OPERATIONAL",
